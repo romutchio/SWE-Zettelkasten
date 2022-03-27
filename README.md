@@ -3,7 +3,7 @@
 # Architect
 
 ## Monitoring
-## Microservice Architecure
+## Microservice Architecture
 ## Design Patterns
 ## Async communication through queue
 ## Scaling and durability of service
